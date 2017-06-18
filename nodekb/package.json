@@ -1,0 +1,16 @@
+{
+  "name": "nodekb",
+  "version": "1.0.0",
+  "description": "Simple knowledgebase app",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app"
+  },
+  "author": "Ferdi",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.15.3",
+    "mongoose": "^4.10.6",
+    "pug": "^2.0.0-rc.2"
+  }
+}
